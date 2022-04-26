@@ -1,0 +1,139 @@
+body {
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-bottom: 0px;
+    background-color: #FFE333;
+    color: #000000;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+img {
+    margin:10px 20px;       
+}
+
+p {
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+    line-height:2;
+}
+
+h1 {
+    font-size: 4rem;
+    font-family: 'Sacramento', cursive;
+    color: #334756;
+}
+
+h2 {
+    margin:50px auto;
+    color: #082032;
+}
+
+h3 {
+    color: #334756;
+}
+
+a {
+    text-decoration: none;
+    color: #F0A500;
+    font-family: 'Merriweather', serif;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+/*****************************************************************************************************************/
+
+img.minion {
+    width: 1300px;
+}
+
+img.minion_profile {
+    border-radius: 80%;
+    height:10rem;
+    width:10rem;
+}
+
+img.minion_banana {
+    border-radius: 80%;
+    height:12rem;
+    width:12rem;
+    float:left;
+    margin-right: 30px;
+}
+
+img.minion_music {
+    border-radius: 80%;
+    height:12rem;
+    width:12rem;
+    float:right;
+    margin-left: 30px;
+}
+
+hr.line {
+    border: 10px dotted #ffffb3;
+    border-bottom: none;
+    width: 4%;
+    margin:100px auto;
+}
+
+p.intro {
+    width: 30%;
+    margin:auto;
+    text-align: center;
+}
+
+.skill-row {
+    width:50%;
+    margin:50px auto auto;
+    text-align:left;
+    line-height:2;
+
+}
+
+.btn {
+  background: #fcef00;
+  background-image: -webkit-linear-gradient(top, #fcef00, #fcb308);
+  background-image: -moz-linear-gradient(top, #fcef00, #fcb308);
+  background-image: -ms-linear-gradient(top, #fcef00, #fcb308);
+  background-image: -o-linear-gradient(top, #fcef00, #fcb308);
+  background-image: linear-gradient(to bottom, #fcef00, #fcb308);
+  -webkit-border-radius: 20;
+  -moz-border-radius: 20;
+  border-radius: 20px;
+  font-family: 'Merriweather', serif;
+  color: #000000;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #91ff00;
+  background-image: -webkit-linear-gradient(top, #91ff00, #fffb00);
+  background-image: -moz-linear-gradient(top, #91ff00, #fffb00);
+  background-image: -ms-linear-gradient(top, #91ff00, #fffb00);
+  background-image: -o-linear-gradient(top, #91ff00, #fffb00);
+  background-image: linear-gradient(to bottom, #91ff00, #fffb00);
+  text-decoration: none;
+}
+
+/*.chatme_btn {
+
+}*/
+
+
+.bottom-container {
+    color: #e6e6e6;
+    background-color: #000000;
+    font-family: 'Merriweather', serif;
+    padding: 50px 20px 20px;
+}
+
+p.footer {
+    margin: top 20px;
+    font-size:.75rem;
+}
+
+
+/*****************************************************************************************************************/
+
